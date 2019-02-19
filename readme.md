@@ -3,11 +3,13 @@ The project demonstrates the use of database management system to manage hostel 
 
 ## Technology Stack
 The platform runs using following tech :
+
 	1. Tkinter (Python Framework)
 	2. MySql (Database Management System)
 
 ## How to use?
 User can use this platform by configuring mysql and installing required dependencies:
+
 	* Tkinter
 	* MySQLdb
 
