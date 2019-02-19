@@ -13,9 +13,9 @@ User can use this platform by configuring mysql and installing required dependen
 
 Follwed by running with :
 
-' ' '
+```
 	$ python login.py
-' ' '
+```
 
 ##Screenshots of the platform
 ![Login Page](https://github.com/Varun-Singhal/DBMS-Hostel/blob/master/images/1.png)
